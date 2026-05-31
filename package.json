@@ -1,0 +1,9 @@
+{
+  "name": "dep-scan-malicious-demo",
+  "version": "1.0.0",
+  "description": "Test repo for Maze dependency scanner — depends on a known malicious npm package",
+  "private": true,
+  "dependencies": {
+    "buffer-utilities": "1.0.0"
+  }
+}

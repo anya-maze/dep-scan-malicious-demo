@@ -4,6 +4,6 @@
   "description": "Test repo for Maze dependency scanner — depends on a known malicious npm package",
   "private": true,
   "dependencies": {
-    "buffer-utilities": "1.0.0"
+    "ua-parser-js": "0.7.29"
   }
 }
